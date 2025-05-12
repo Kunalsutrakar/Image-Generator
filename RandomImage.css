@@ -1,0 +1,46 @@
+.a1{
+    /* background-color: aquamarine; */
+    background-image: url("https://imgv3.fotor.com/images/gallery/Blue-geometric-pattern-background.jpg");
+    /* width: 80%; */
+    margin:auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 15px;
+    color: rgb(13, 45, 41);
+    
+}
+.a1 h1{
+    display: flex;
+    margin: 5px auto;
+    gap: 20px;
+}
+.c1{
+    margin: 5px auto;
+    width: 40px;
+    height: 30px;
+}
+.a1 input{
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    /* margin-left: 50px; */
+}
+.a1 button{
+    width: 100px;
+    height:  40px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: black;
+    color: gold;
+    cursor: pointer;
+}
+.b1{
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+    padding: 30px;
+}
